@@ -1,5 +1,5 @@
 # Image Inpainting paper list
-Forkeed from Awesome-Image-Inpainting to save recent image inpainting papers.
+Forked from Awesome-Image-Inpainting to save recent image inpainting papers.
 
 [//]: #
 
